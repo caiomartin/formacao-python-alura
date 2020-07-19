@@ -9,8 +9,8 @@ Em seguida veremos alguns conceitos básicos do paradigma de orientação a Obje
 
 ### Passo a passo
 - [x] Python 3 parte 1: Introdução à nova versão da linguagem
-- [ ] Python 3 parte 2: Avançando na linguagem
-- [ ] Python 3: Introdução a Orientação a objetos
+- [x] Python 3 parte 2: Avançando na linguagem
+- [x] Python 3: Introdução a Orientação a objetos
 - [ ] Python 3: Avançando na orientação a objetos
 - [ ] Python: Manipulação de Strings
 - [ ] Python Collections parte 1: Listas e tuplas
