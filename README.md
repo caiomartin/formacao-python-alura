@@ -11,9 +11,9 @@ Em seguida veremos alguns conceitos básicos do paradigma de orientação a Obje
 - [x] Python 3 parte 1: Introdução à nova versão da linguagem
 - [x] Python 3 parte 2: Avançando na linguagem
 - [x] Python 3: Introdução a Orientação a objetos
-- [ ] Python 3: Avançando na orientação a objetos
-- [ ] Python: Manipulação de Strings
-- [ ] Python Collections parte 1: Listas e tuplas
-- [ ] Python Collections parte 2: Conjuntos e dicionários
-- [ ] Python Brasil: Validação de dados no padrão nacional
-- [ ] Testes automatizados: TDD com Python
+- [x] Python 3: Avançando na orientação a objetos
+- [x] Python: Manipulação de Strings
+- [x] Python Collections parte 1: Listas e tuplas
+- [x] Python Collections parte 2: Conjuntos e dicionários
+- [x] Python Brasil: Validação de dados no padrão nacional
+- [x] Testes automatizados: TDD com Python
